@@ -47,3 +47,11 @@ Around **35% of diagnostic results were inconclusive**, indicating potential **d
 - Exploratory Data Analysis
 
 ## Project Structure
+<img width="1471" height="829" alt="Healthcare Dashboard- Demographics" src="https://github.com/user-attachments/assets/d17c116d-06bd-4251-8d92-9acc6e161984" />
+<img width="1522" height="846" alt="Healthcare Dashboard- Key Trends" src="https://github.com/user-attachments/assets/287860fd-2ae9-49c4-a547-c54e3f70220a" />
+
+<img width="1371" height="773" alt="Healthcare Dashboard - Treatment   cost" src="https://github.com/user-attachments/assets/7f393159-5063-4794-bb00-e5461dde4caf" />
+
+
+
+
